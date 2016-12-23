@@ -1,0 +1,13 @@
+AdminChat Befehle and Permission
+
+Spieler Befehle:               Permission:
+
+
+
+Admin Befehle:                Permission:
+/cc                           adminchat.cc
+/censor                       adminchat.censor
+/gmute                        adminchat.gmute
+
+
+Besondere Permission:
