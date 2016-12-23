@@ -1,0 +1,22 @@
+name: AdminChat
+version: 1.0
+main: com.jimdo.Fabian996.AdminChat.Main.AdminChat
+author: Fabian996
+website: 
+depend: [Vault]
+
+commands:
+  cc:
+    description:
+    
+  censor:
+    description:
+    
+    
+permissions:
+  adminchat.*:
+    description: Alle permission zu den AdminChat Befehlen
+    default: OP
+    children:
+      adminchat.cc: true
+      adminchat.censor: true
