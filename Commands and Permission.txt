@@ -1,7 +1,8 @@
 AdminChat Befehle and Permission
 
 Spieler Befehle:               Permission:
-
+/msg
+/r
 
 
 Admin Befehle:                Permission:
